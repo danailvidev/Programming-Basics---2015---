@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\07. Quotes in Strings\bin\Debug\_07.Quotes_in_Strings.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\07. Quotes in Strings\obj\Debug\_07.Quotes_in_Strings.pdb

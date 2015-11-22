@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\03. Variable in Hexadecimal Format\bin\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\03. Variable in Hexadecimal Format\obj\Debug\_03.Variable_in_Hexadecimal_Format.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\03. Variable in Hexadecimal Format\obj\Debug\03. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache

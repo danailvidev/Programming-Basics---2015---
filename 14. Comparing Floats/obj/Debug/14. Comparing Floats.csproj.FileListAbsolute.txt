@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\14. Comparing Floats\bin\Debug\_14.Comparing_Floats.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\14. Comparing Floats\bin\Debug\_14.Comparing_Floats.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\14. Comparing Floats\bin\Debug\_14.Comparing_Floats.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\14. Comparing Floats\obj\Debug\_14.Comparing_Floats.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\14. Comparing Floats\obj\Debug\_14.Comparing_Floats.pdb

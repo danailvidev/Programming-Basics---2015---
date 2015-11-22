@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\13. Null Values Arithmetic\bin\Debug\_13.Null_Values_Arithmetic.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\13. Null Values Arithmetic\bin\Debug\_13.Null_Values_Arithmetic.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\13. Null Values Arithmetic\bin\Debug\_13.Null_Values_Arithmetic.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\13. Null Values Arithmetic\obj\Debug\_13.Null_Values_Arithmetic.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\13. Null Values Arithmetic\obj\Debug\_13.Null_Values_Arithmetic.pdb

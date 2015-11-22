@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\01. Declare Variables\bin\Debug\_01.Declare_Variables.exe.config
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\01. Declare Variables\bin\Debug\_01.Declare_Variables.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\01. Declare Variables\bin\Debug\_01.Declare_Variables.pdb
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\01. Declare Variables\obj\Debug\_01.Declare_Variables.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\01. Declare Variables\obj\Debug\_01.Declare_Variables.pdb

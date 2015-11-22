@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\12. Print the ASCII Table\bin\Debug\_12.Print_the_ASCII_Table.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\12. Print the ASCII Table\obj\Debug\12. Print the ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\12. Print the ASCII Table\bin\Debug\_12.Print_the_ASCII_Table.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\12. Print the ASCII Table\bin\Debug\_12.Print_the_ASCII_Table.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\12. Print the ASCII Table\obj\Debug\_12.Print_the_ASCII_Table.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\12. Print the ASCII Table\obj\Debug\_12.Print_the_ASCII_Table.pdb

@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\15. Torrent Pirate\bin\Debug\_15.Torrent_Pirate.exe.config
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\15. Torrent Pirate\bin\Debug\_15.Torrent_Pirate.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\15. Torrent Pirate\bin\Debug\_15.Torrent_Pirate.pdb
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\15. Torrent Pirate\obj\Debug\15. Torrent Pirate.csprojResolveAssemblyReference.cache
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\15. Torrent Pirate\obj\Debug\_15.Torrent_Pirate.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\15. Torrent Pirate\obj\Debug\_15.Torrent_Pirate.pdb

@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\08. Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\08. Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb

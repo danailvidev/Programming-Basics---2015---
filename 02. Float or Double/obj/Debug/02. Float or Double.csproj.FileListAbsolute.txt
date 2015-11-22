@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\02. Float or Double\bin\Debug\_02.Float_or_Double.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\02. Float or Double\bin\Debug\_02.Float_or_Double.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\02. Float or Double\bin\Debug\_02.Float_or_Double.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\02. Float or Double\obj\Debug\02. Float or Double.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\02. Float or Double\obj\Debug\_02.Float_or_Double.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\02. Float or Double\obj\Debug\_02.Float_or_Double.pdb

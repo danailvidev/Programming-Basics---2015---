@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\10. Employee Data\bin\Debug\_10.Employee_Data.exe.config
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\10. Employee Data\bin\Debug\_10.Employee_Data.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\10. Employee Data\bin\Debug\_10.Employee_Data.pdb
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\10. Employee Data\obj\Debug\10. Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\10. Employee Data\obj\Debug\_10.Employee_Data.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Primitive Data Types and Var\10. Employee Data\obj\Debug\_10.Employee_Data.pdb
