@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\09. Play with Int Double and String\bin\Debug\_09.Play_with_Int_Double_and_String.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\09. Play with Int Double and String\bin\Debug\_09.Play_with_Int_Double_and_String.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\09. Play with Int Double and String\bin\Debug\_09.Play_with_Int_Double_and_String.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\09. Play with Int Double and String\obj\Debug\_09.Play_with_Int_Double_and_String.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\09. Play with Int Double and String\obj\Debug\_09.Play_with_Int_Double_and_String.pdb

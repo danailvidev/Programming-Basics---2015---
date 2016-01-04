@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\10. Numbers in Interval Dividable by Given Num\bin\Debug\_10.Numbers_in_Interval_Dividable_by_Given_Num.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\10. Numbers in Interval Dividable by Given Num\bin\Debug\_10.Numbers_in_Interval_Dividable_by_Given_Num.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\10. Numbers in Interval Dividable by Given Num\bin\Debug\_10.Numbers_in_Interval_Dividable_by_Given_Num.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\10. Numbers in Interval Dividable by Given Num\obj\Debug\_10.Numbers_in_Interval_Dividable_by_Given_Num.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\10. Numbers in Interval Dividable by Given Num\obj\Debug\_10.Numbers_in_Interval_Dividable_by_Given_Num.pdb
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\10. Numbers in Interval Dividable by Given Num\obj\Debug\10. Numbers in Interval Dividable by Given Num.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\04. Rectangles\bin\Debug\_04.Rectangles.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\04. Rectangles\obj\Debug\_04.Rectangles.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\04. Rectangles\obj\Debug\_04.Rectangles.pdb

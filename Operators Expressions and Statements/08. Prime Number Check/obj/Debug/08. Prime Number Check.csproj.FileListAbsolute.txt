@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\08. Prime Number Check\obj\Debug\08. Prime Number Check.csprojResolveAssemblyReference.cache

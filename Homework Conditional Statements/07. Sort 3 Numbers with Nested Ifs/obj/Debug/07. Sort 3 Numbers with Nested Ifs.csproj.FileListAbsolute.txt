@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\07. Sort 3 Numbers with Nested Ifs\bin\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\07. Sort 3 Numbers with Nested Ifs\obj\Debug\07. Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\07. Sort 3 Numbers with Nested Ifs\obj\Debug\_07.Sort_3_Numbers_with_Nested_Ifs.pdb

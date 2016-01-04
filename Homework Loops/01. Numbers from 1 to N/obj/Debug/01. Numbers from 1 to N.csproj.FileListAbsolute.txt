@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\01. Numbers from 1 to N\bin\Debug\_01.Numbers_from_1_to_N.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\01. Numbers from 1 to N\obj\Debug\_01.Numbers_from_1_to_N.pdb

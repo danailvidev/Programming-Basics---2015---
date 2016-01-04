@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\02.  Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\02.  Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\02.  Gravitation on the Moon\bin\Debug\_02.Gravitation_on_the_Moon.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\02.  Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\02.  Gravitation on the Moon\obj\Debug\_02.Gravitation_on_the_Moon.pdb

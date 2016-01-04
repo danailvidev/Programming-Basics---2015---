@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb

@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\08. Numbers from 1 to n\bin\Debug\_08.Numbers_from_1_to_n.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\08. Numbers from 1 to n\obj\Debug\_08.Numbers_from_1_to_n.pdb

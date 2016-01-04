@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\06. Calculate N  K\bin\Debug\_06.Calculate_N__K.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\06. Calculate N  K\bin\Debug\_06.Calculate_N__K.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\06. Calculate N  K\bin\Debug\_06.Calculate_N__K.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\06. Calculate N  K\obj\Debug\06. Calculate N  K.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\06. Calculate N  K\obj\Debug\_06.Calculate_N__K.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\06. Calculate N  K\obj\Debug\_06.Calculate_N__K.pdb

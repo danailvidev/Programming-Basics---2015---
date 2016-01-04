@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words\bin\Debug\_11.Number_as_Words.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words\obj\Debug\_11.Number_as_Words.pdb

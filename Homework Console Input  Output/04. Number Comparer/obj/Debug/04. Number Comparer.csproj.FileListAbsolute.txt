@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\04. Number Comparer\bin\Debug\_04.Number_Comparer.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\04. Number Comparer\obj\Debug\_04.Number_Comparer.pdb

@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\10, Point Inside a Circle Outside of a Rectangle\bin\Debug\10, Point Inside a Circle Outside of a Rectangle.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\10, Point Inside a Circle Outside of a Rectangle\bin\Debug\10, Point Inside a Circle Outside of a Rectangle.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\10, Point Inside a Circle Outside of a Rectangle\bin\Debug\10, Point Inside a Circle Outside of a Rectangle.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\10, Point Inside a Circle Outside of a Rectangle\obj\Debug\10, Point Inside a Circle Outside of a Rectangle.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\10, Point Inside a Circle Outside of a Rectangle\obj\Debug\10, Point Inside a Circle Outside of a Rectangle.pdb

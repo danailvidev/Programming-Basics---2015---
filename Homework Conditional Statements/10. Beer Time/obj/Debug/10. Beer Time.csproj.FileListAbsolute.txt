@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\10. Beer Time\bin\Debug\_10.Beer_Time.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\10. Beer Time\bin\Debug\_10.Beer_Time.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\10. Beer Time\bin\Debug\_10.Beer_Time.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\10. Beer Time\obj\Debug\10. Beer Time.csprojResolveAssemblyReference.cache
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\10. Beer Time\obj\Debug\_10.Beer_Time.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\10. Beer Time\obj\Debug\_10.Beer_Time.pdb

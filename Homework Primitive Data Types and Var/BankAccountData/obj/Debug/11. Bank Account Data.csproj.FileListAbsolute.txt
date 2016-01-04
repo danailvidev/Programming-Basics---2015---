@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\BankAccountData\obj\Debug\11. Bank Account Data.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Primitive Data Types and Var\BankAccountData\obj\Debug\BankAccountData.pdb

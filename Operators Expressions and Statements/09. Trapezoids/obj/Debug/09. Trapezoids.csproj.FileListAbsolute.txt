@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

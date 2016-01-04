@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\02. Print Company Information\bin\Debug\_02.Print_Company_Information.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\02. Print Company Information\obj\Debug\_02.Print_Company_Information.pdb

@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\03. Circle Perimeter and Area\bin\Debug\_03.Circle_Perimeter_and_Area.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\03. Circle Perimeter and Area\bin\Debug\_03.Circle_Perimeter_and_Area.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\03. Circle Perimeter and Area\bin\Debug\_03.Circle_Perimeter_and_Area.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\03. Circle Perimeter and Area\obj\Debug\_03.Circle_Perimeter_and_Area.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\03. Circle Perimeter and Area\obj\Debug\_03.Circle_Perimeter_and_Area.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\03. Circle Perimeter and Area\obj\Debug\03. Circle Perimeter and Area.csprojResolveAssemblyReference.cache

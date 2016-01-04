@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\05. Calculate 1 1X  2X2  NXN\bin\Debug\_05.Calculate_1_1X__2X2__NXN.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\05. Calculate 1 1X  2X2  NXN\bin\Debug\_05.Calculate_1_1X__2X2__NXN.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\05. Calculate 1 1X  2X2  NXN\bin\Debug\_05.Calculate_1_1X__2X2__NXN.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\05. Calculate 1 1X  2X2  NXN\obj\Debug\_05.Calculate_1_1X__2X2__NXN.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Loops\05. Calculate 1 1X  2X2  NXN\obj\Debug\_05.Calculate_1_1X__2X2__NXN.pdb

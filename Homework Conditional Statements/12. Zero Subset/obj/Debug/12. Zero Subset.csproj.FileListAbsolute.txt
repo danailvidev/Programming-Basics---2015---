@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\12. Zero Subset\bin\Debug\_12.Zero_Subset.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\12. Zero Subset\bin\Debug\_12.Zero_Subset.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\12. Zero Subset\bin\Debug\_12.Zero_Subset.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\12. Zero Subset\obj\Debug\_12.Zero_Subset.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\12. Zero Subset\obj\Debug\_12.Zero_Subset.pdb

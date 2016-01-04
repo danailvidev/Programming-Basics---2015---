@@ -1,0 +1,6 @@
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\11. Currency Check\bin\Debug\_11.Currency_Check.exe.config
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\11. Currency Check\bin\Debug\_11.Currency_Check.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\11. Currency Check\bin\Debug\_11.Currency_Check.pdb
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\11. Currency Check\obj\Debug\11. Currency Check.csprojResolveAssemblyReference.cache
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\11. Currency Check\obj\Debug\_11.Currency_Check.exe
+C:\Users\trytka\Documents\Visual Studio 2015\Projects\Homework Console Input  Output\11. Currency Check\obj\Debug\_11.Currency_Check.pdb

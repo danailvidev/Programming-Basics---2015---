@@ -1,0 +1,5 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words Second try\bin\Debug\_11.Number_as_Words_Second_try.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words Second try\bin\Debug\_11.Number_as_Words_Second_try.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words Second try\bin\Debug\_11.Number_as_Words_Second_try.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words Second try\obj\Debug\_11.Number_as_Words_Second_try.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Conditional Statements\11. Number as Words Second try\obj\Debug\_11.Number_as_Words_Second_try.pdb

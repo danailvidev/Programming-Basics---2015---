@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\09. Fibonacci Numbers\bin\Debug\_09.Fibonacci_Numbers.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\09. Fibonacci Numbers\bin\Debug\_09.Fibonacci_Numbers.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\09. Fibonacci Numbers\bin\Debug\_09.Fibonacci_Numbers.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\09. Fibonacci Numbers\obj\Debug\09. Fibonacci Numbers.csprojResolveAssemblyReference.cache
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\09. Fibonacci Numbers\obj\Debug\_09.Fibonacci_Numbers.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Homework Console Input  Output\09. Fibonacci Numbers\obj\Debug\_09.Fibonacci_Numbers.pdb

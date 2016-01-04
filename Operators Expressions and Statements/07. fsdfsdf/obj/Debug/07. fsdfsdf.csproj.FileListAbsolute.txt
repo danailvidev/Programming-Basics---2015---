@@ -1,0 +1,5 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\07. fsdfsdf\bin\Debug\_07.fsdfsdf.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\07. fsdfsdf\bin\Debug\_07.fsdfsdf.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\07. fsdfsdf\bin\Debug\_07.fsdfsdf.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\07. fsdfsdf\obj\Debug\_07.fsdfsdf.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Оператори и изрази\07. fsdfsdf\obj\Debug\_07.fsdfsdf.pdb

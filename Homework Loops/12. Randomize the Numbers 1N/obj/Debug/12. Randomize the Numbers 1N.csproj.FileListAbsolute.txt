@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\12. Randomize the Numbers 1N\bin\Debug\_12.Randomize_the_Numbers_1N.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\12. Randomize the Numbers 1N\bin\Debug\_12.Randomize_the_Numbers_1N.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\12. Randomize the Numbers 1N\bin\Debug\_12.Randomize_the_Numbers_1N.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\12. Randomize the Numbers 1N\obj\Debug\12. Randomize the Numbers 1N.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\12. Randomize the Numbers 1N\obj\Debug\_12.Randomize_the_Numbers_1N.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Homework Loops\12. Randomize the Numbers 1N\obj\Debug\_12.Randomize_the_Numbers_1N.pdb
