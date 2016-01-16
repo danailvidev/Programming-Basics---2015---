@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\07. Eggcelent\bin\Debug\_07.Eggcelent.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\07. Eggcelent\bin\Debug\_07.Eggcelent.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\07. Eggcelent\bin\Debug\_07.Eggcelent.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\07. Eggcelent\obj\Debug\07. Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\07. Eggcelent\obj\Debug\_07.Eggcelent.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\07. Eggcelent\obj\Debug\_07.Eggcelent.pdb

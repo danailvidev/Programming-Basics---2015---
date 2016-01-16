@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\02. Tribonaci\bin\Debug\_02.Tribonaci.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\02. Tribonaci\bin\Debug\_02.Tribonaci.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\02. Tribonaci\bin\Debug\_02.Tribonaci.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\02. Tribonaci\obj\Debug\02. Tribonaci.csprojResolveAssemblyReference.cache
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\02. Tribonaci\obj\Debug\_02.Tribonaci.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\02. Tribonaci\obj\Debug\_02.Tribonaci.pdb

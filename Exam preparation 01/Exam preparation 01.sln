@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cartesian coordinate system", "01. Cartesian problem\01. Cartesian coordinate system.csproj", "{CD0DF29F-5230-439F-BCC8-75E2857363E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Tribonaci", "02. Tribonaci\02. Tribonaci.csproj", "{C6BA09F8-A7CF-44FC-89DA-3017B80D1564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Tribonaci ver2", "02. Tribonaci ver2\02. Tribonaci ver2.csproj", "{21F59F12-B79F-4BBC-AD47-DA87BF3155C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sand Watch", "03. Sand Watch\03. Sand Watch.csproj", "{0F9B6389-71EF-45C9-89C6-0801D2F24063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sand Watch ver2", "03. Sand Watch ver2\03. Sand Watch ver2.csproj", "{59079882-7C83-4AFF-B868-651EA8C55188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bits", "05. Bits\05. Bits.csproj", "{44E2B36F-6D5A-4005-851D-299D9B59CA3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0DF29F-5230-439F-BCC8-75E2857363E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0DF29F-5230-439F-BCC8-75E2857363E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0DF29F-5230-439F-BCC8-75E2857363E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0DF29F-5230-439F-BCC8-75E2857363E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BA09F8-A7CF-44FC-89DA-3017B80D1564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BA09F8-A7CF-44FC-89DA-3017B80D1564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BA09F8-A7CF-44FC-89DA-3017B80D1564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BA09F8-A7CF-44FC-89DA-3017B80D1564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F59F12-B79F-4BBC-AD47-DA87BF3155C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F59F12-B79F-4BBC-AD47-DA87BF3155C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F59F12-B79F-4BBC-AD47-DA87BF3155C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F59F12-B79F-4BBC-AD47-DA87BF3155C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9B6389-71EF-45C9-89C6-0801D2F24063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9B6389-71EF-45C9-89C6-0801D2F24063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9B6389-71EF-45C9-89C6-0801D2F24063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9B6389-71EF-45C9-89C6-0801D2F24063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59079882-7C83-4AFF-B868-651EA8C55188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59079882-7C83-4AFF-B868-651EA8C55188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59079882-7C83-4AFF-B868-651EA8C55188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59079882-7C83-4AFF-B868-651EA8C55188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E2B36F-6D5A-4005-851D-299D9B59CA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E2B36F-6D5A-4005-851D-299D9B59CA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E2B36F-6D5A-4005-851D-299D9B59CA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E2B36F-6D5A-4005-851D-299D9B59CA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

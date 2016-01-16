@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\01. 2-4-8\bin\Debug\01. 2-4-8.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\01. 2-4-8\bin\Debug\01. 2-4-8.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\01. 2-4-8\bin\Debug\01. 2-4-8.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\01. 2-4-8\obj\Debug\01. 2-4-8.csprojResolveAssemblyReference.cache
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\01. 2-4-8\obj\Debug\01. 2-4-8.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\01. 2-4-8\obj\Debug\01. 2-4-8.pdb

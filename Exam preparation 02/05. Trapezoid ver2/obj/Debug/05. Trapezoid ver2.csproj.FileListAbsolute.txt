@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\05. Trapezoid ver2\bin\Debug\_05.Trapezoid_ver2.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\05. Trapezoid ver2\bin\Debug\_05.Trapezoid_ver2.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\05. Trapezoid ver2\bin\Debug\_05.Trapezoid_ver2.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\05. Trapezoid ver2\obj\Debug\05. Trapezoid ver2.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\05. Trapezoid ver2\obj\Debug\_05.Trapezoid_ver2.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\05. Trapezoid ver2\obj\Debug\_05.Trapezoid_ver2.pdb

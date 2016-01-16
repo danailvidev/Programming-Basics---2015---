@@ -1,0 +1,6 @@
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\02. Nightmare on code street\bin\Debug\_02.Nightmare_on_code_street.exe.config
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\02. Nightmare on code street\bin\Debug\_02.Nightmare_on_code_street.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\02. Nightmare on code street\bin\Debug\_02.Nightmare_on_code_street.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\02. Nightmare on code street\obj\Debug\_02.Nightmare_on_code_street.exe
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\02. Nightmare on code street\obj\Debug\_02.Nightmare_on_code_street.pdb
+c:\users\trytka\documents\visual studio 2015\Projects\Exam preparation 02\02. Nightmare on code street\obj\Debug\02. Nightmare on code street.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\03. Sand Watch\bin\Debug\_03.Sand_Watch.exe.config
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\03. Sand Watch\bin\Debug\_03.Sand_Watch.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\03. Sand Watch\bin\Debug\_03.Sand_Watch.pdb
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\03. Sand Watch\obj\Debug\03. Sand Watch.csprojResolveAssemblyReference.cache
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\03. Sand Watch\obj\Debug\_03.Sand_Watch.exe
+C:\Users\trytka\documents\visual studio 2015\Projects\Exam preparation 01\03. Sand Watch\obj\Debug\_03.Sand_Watch.pdb
